@@ -1,0 +1,146 @@
+#page
+{
+    margin: auto;
+}
+
+/* Menu */
+#menu
+{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-color: black;
+    width: 220px;
+    height:735px;
+    border: red solid 2px;
+}
+#ava
+{
+    text-align: center;
+    border: red solid 2px;
+}
+.a:hover, a:visited, a:link, a:active
+{
+    color: white;
+    text-decoration: none;
+}
+div ul
+{
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 20px;
+    border: red solid 2px;
+}
+div li
+{
+    margin-bottom: 20px;
+    border: red solid 2px;
+}
+
+/* Header */
+#Wallpaper
+{
+    margin-left: 230px;
+    width: 1270px;
+    border: red solid 2px;
+    text-align: center;
+}
+
+/* Main */
+section
+{
+    display: flex;
+    flex-direction: column;
+    width: 1270px;
+    margin-left: 230px;
+    border: red solid 2px;
+
+}
+.Tag
+{
+    border: red solid 2px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    width: 1200px;
+
+
+}
+h3 a strong
+{
+    margin-left: 20px;
+}
+
+/* Introduction */
+div p
+{
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Skill */
+.Skill
+{
+    border: red solid 2px;
+    width: 1010px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+.Skill_info
+{
+    border: red solid 2px;
+    margin: 20px;
+    width: 800px;
+    text-align: center;
+}
+
+/* Gameplay */
+.GP
+{
+    border: red solid 2px;
+    width: 1010px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Levelup */
+#Levelup_img
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+#Levelup{
+    font-size: 20px;
+    text-align: center;
+    border: red solid 2px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+    width: 800px;
+}
+table
+{
+    border-collapse: collapse;
+    margin: 20px;
+}
+td,th,tr
+{
+    border: 1px solid black;
+}
+
+/* Opinion */
+#form
+{
+    margin-left: 50px;
+    margin-bottom: 30px;
+    width: 1010px;
+    border: red solid 2px;
+}
